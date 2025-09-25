@@ -10,7 +10,7 @@ Um poderoso middleware para o framework [Horse](https://github.com/HashLoad/hors
 
 O **Horse Documentation** simplifica drasticamente o processo de documentação de APIs em Delphi. Com uma única linha de código, ele inspeciona sua aplicação Horse, descobre todos os endpoints registrados e gera uma página de documentação funcional. Para documentações mais ricas e detalhadas, ele oferece uma interface fluente e poderosa que permite descrever cada aspecto da sua API, desde parâmetros e corpos de requisição até esquemas de segurança e exemplos de resposta.
 
-![Demonstração do Horse Documentation em Ação](httpsd://raw.githubusercontent.com/weslleycapelari/horse-documentation/example.png)
+![Demonstração do Horse Documentation em Ação](example.png)
 *(Imagem de exemplo da interface Scalar)*
 
 ## ✨ Recursos Principais
