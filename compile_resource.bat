@@ -1,0 +1,1 @@
+brcc32 ./src/Horse.Documentation.rc
