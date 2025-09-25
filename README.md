@@ -1,8 +1,7 @@
 # Horse Documentation
 
-[![Status do Build](https://img.shields.io/github/actions/workflow/status/weslleycapelari/horse-documentation/ci.yml?branch=main&style=for-the-badge)](https://github.com/weslleycapelari/horse-documentation/actions)
-[![Licença](https://img.shields.io/github/license/weslleycapelari/horse-documentation?style=for-the-badge)](LICENSE)
-[![Versão](https://img.shields.io/github/v/release/weslleycapelari/horse-documentation?style=for-the-badge)](https://github.com/weslleycapelari/horse-documentation/releases)
+[![Licença](https://img.shields.io/github/license/weslleycapelari/horse-documentation)](LICENSE)
+[![Versão](https://img.shields.io/github/v/release/weslleycapelari/horse-documentation)](https://github.com/weslleycapelari/horse-documentation/releases)
 
 Um poderoso middleware para o framework [Horse](https://github.com/HashLoad/horse) que gera automaticamente documentação de API interativa e elegante, utilizando o padrão **OpenAPI 3.1** e a interface de usuário **Scalar**.
 
